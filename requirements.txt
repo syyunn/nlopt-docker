@@ -1,2 +1,2 @@
 nlopt==2.4.2.post2
-numpy==1.18.0
+numpy==1.22.0
